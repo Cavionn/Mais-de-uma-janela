@@ -1,0 +1,18 @@
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\bin\Debug\net6.0-windows\open-close-propriedades e funçoes.exe
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\bin\Debug\net6.0-windows\open-close-propriedades e funçoes.deps.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\bin\Debug\net6.0-windows\open-close-propriedades e funçoes.runtimeconfig.json
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\bin\Debug\net6.0-windows\open-close-propriedades e funçoes.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\bin\Debug\net6.0-windows\open-close-propriedades e funçoes.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.csproj.AssemblyReference.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open_close_propriedades_e_funçoes.frmCadastro.resources
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open_close_propriedades_e_funçoes.frmPrincipal.resources
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.csproj.GenerateResource.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.AssemblyInfoInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.AssemblyInfo.cs
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.csproj.CoreCompileInputs.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\refint\open-close-propriedades e funçoes.dll
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.pdb
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\open-close-propriedades e funçoes.genruntimeconfig.cache
+C:\Users\GIORGIOCAVIONTIBURI\source\repos\open-close-propriedades e funçoes\open-close-propriedades e funçoes\obj\Debug\net6.0-windows\ref\open-close-propriedades e funçoes.dll
